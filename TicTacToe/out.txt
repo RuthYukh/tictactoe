@@ -1,0 +1,1 @@
+Number of wins for player1 = 6626, number of wins for player2 = 1956, number of draws: 1418.

@@ -1,0 +1,21 @@
+ruthyukh
+208106971
+
+Strategy for Snartypamts:
+first put a mark in the middle. then, try to go right. if not possible,
+continue going down as long as possible.
+
+Strategy for Whatever:
+randomly picks 2 coordinates in the range, if its empty, put the mark.
+otherwise keep picking random coordinates until possible to put a mark.
+
+500 rounds:
+whatever VS snartypamts : 1-499 in favor of snartypamts, 0 draw
+whatever VS clever: 30-470 in favor of clever, 0 draw
+whatever VS whatever: 250-248, 2 draws
+clever VS clever: 250-250, 0 draws
+clever VS snartypamts: 0-500 in favor of snartypamts, 0 draw
+snartypamts VS snartypamts: 250-250, 0 draw
+
+1000 rounds:
+whatever VS whatever: 
